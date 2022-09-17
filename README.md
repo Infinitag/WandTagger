@@ -22,10 +22,10 @@ I found the solution on the following website:
 https://www.connectix.nl/pl2303hxa-phased-out-since-2012-please-contact-your-supplier-solved/
 
 Additionally, I have included the file in the repo in case it is no longer available:
-[IO-Cable_PL-2303_Drivers-Generic_Windows_PL2303_Prolific.zip](https://github.com/Infinitag/WandTagger/driver/IO-Cable_PL-2303_Drivers-Generic_Windows_PL2303_Prolific.zip)
+[IO-Cable_PL-2303_Drivers-Generic_Windows_PL2303_Prolific.zip](https://github.com/Infinitag/WandTagger/blob/main/divers/IO-Cable_PL-2303_Drivers-Generic_Windows_PL2303_Prolific.zip)
 
 ### Wiring
 
 I did the wiring as follows:
 
-![Wiring details](https://github.com/Infinitag/WandTagger/images/ConnectUSBToTTL.png?raw=true)
+![Wiring details](https://github.com/Infinitag/WandTagger/blob/main/images/ConnectUSBToTTL.png?raw=true)
