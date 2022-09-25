@@ -1,4 +1,5 @@
 # Infinitag Wand-Tagger
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This project was implemented in the course of Halloween and represents an affordable and simple mini laser tagger in the form of a magic wand.
 
@@ -36,9 +37,14 @@ I did the wiring as follows:
 When programming from Arduino IDE, press and hold the Reset button during compilation and release it after information about sketch size appears and state changes to “Uploading”. Uploading should begin and succeed.
 
 ## License
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
-All files are published under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
-License: https://creativecommons.org/licenses/by-nc-sa/4.0/
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
 ## Additional
 
