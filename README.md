@@ -34,3 +34,12 @@ I did the wiring as follows:
 ### Uploading Sketch
 
 When programming from Arduino IDE, press and hold the Reset button during compilation and release it after information about sketch size appears and state changes to “Uploading”. Uploading should begin and succeed.
+
+## License
+
+All files are published under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+License: https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+## Additional
+
+For more information about the Infinitag System please visit [infinitag.io](http://www.infinitag.io).
