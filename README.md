@@ -5,6 +5,7 @@ This project was implemented in the course of Halloween and represents an afford
 ## Hardware
 
 - Arduino Mini Pro
+- USB to TTL Dongle
 
 ## Write Sketch with Windows
 
@@ -29,3 +30,7 @@ Additionally, I have included the file in the repo in case it is no longer avail
 I did the wiring as follows:
 
 ![Wiring details](https://github.com/Infinitag/WandTagger/blob/main/images/ConnectUSBToTTL.png?raw=true)
+
+### Uploading Sketch
+
+When programming from Arduino IDE, press and hold the Reset button during compilation and release it after information about sketch size appears and state changes to “Uploading”. Uploading should begin and succeed.
